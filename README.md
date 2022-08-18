@@ -4,4 +4,4 @@
 
 用于cdtplus项目中进行验证码识别
 
-发布版本附带于cdtplus项目中
+发布版本在cdtplus项目的releases中
